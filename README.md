@@ -5,7 +5,7 @@
 <h1 align="center">Hey, I'm Shreya 👋</h1>
 
 <p align="center">
-  💻 CSE Student • Frontend Developer • AI Explorer
+  💻 ISE Student • Frontend Developer • AI Explorer
 </p>
 
 <p align="center">
@@ -78,15 +78,24 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/shreyabhat75">GitHub</a> •
-  <a href="https://www.linkedin.com/in/shreya-mohan-bhat/">LinkedIn</a> •
-  <a href="https://www.shreya-bhat.me/">Portfolio</a> •
-  <a href="mailto:shreyab232@gmail.com">Email</a>
+  <a href="https://github.com/shreyabhat75">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/shreya-mohan-bhat/">
+    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="https://www.shreya-bhat.me/">
+    <img src="https://img.shields.io/badge/Portfolio-C084FC?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  
+  <a href="mailto:shreyab232@gmail.com">
+    <img src="https://img.shields.io/badge/Email-9370DB?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shreyabhat75&label=Profile%20Views&color=c084fc&style=flat" />
-</p>
+
 
 ---
 
