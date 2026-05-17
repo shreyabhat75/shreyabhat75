@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Shreya 👋
 
-<!--
-**shreyabhat75/shreyabhat75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 ISE Student
+🚀 Frontend & Full Stack Developer
+🎯 Interested in AI, Web Dev, Ethical Hacking
 
-Here are some ideas to get you started:
+## Tech Stack
+- React
+- Java
+- Python
+- Javascript
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Smart Sign Language Translator
+- AI Resume Screener and Skill gap analyzer
+
+## Currently Learning
+- Springboot
+- ML/DL
+  
