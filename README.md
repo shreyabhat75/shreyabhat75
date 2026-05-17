@@ -77,6 +77,17 @@
   />
 </div>
 
+<p align="center">
+  <a href="https://github.com/shreyabhat75">GitHub</a> •
+  <a href="https://www.linkedin.com/in/shreya-mohan-bhat/">LinkedIn</a> •
+  <a href="https://www.shreya-bhat.me/">Portfolio</a> •
+  <a href="mailto:shreyab232@gmail.com">Email</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shreyabhat75&label=Profile%20Views&color=c084fc&style=flat" />
+</p>
+
 ---
 
 ## ✨ Featured Projects
