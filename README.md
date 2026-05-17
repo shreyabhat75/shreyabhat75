@@ -18,4 +18,6 @@ React • Java • Python • JavaScript • MySQL • TailwindCSS
 
 > “Code. Create. Impact.”
 > 
-![Stats](https://github-readme-stats.vercel.app/api?username=shreyabhat75&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyabhat75&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyabhat75&layout=compact&theme=tokyonight)
