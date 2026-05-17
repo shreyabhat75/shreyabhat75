@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&reversal=false&fontSize=54&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&desc=CSE%20Student%20%7C%20Frontend%20Developer%20%7C%20AI%20Explorer&descSize=18&descAlign=50&descAlignY=60&theme=gruvbox_light" width="100%" />
+</div>
+
 <h1 align="center">Hey, I'm Shreya 👋</h1>
 
 <p align="center">
@@ -5,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C084FC&center=true&vCenter=true&width=435&lines=Code.+Create.+Impact.;React+Developer;AI+%26+Web+Development;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C084FC&center=true&vCenter=true&width=520&lines=Code.+Create.+Impact.;React+Developer;AI+%26+Web+Development;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
 ---
@@ -22,24 +26,56 @@
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,java,python,javascript,,git,github,figma,tailwind,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,python,java,mysql,git,github,figma,tailwind,vscode" alt="Tech Stack" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyabhat75&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyabhat75&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<div align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyabhat75&theme=tokyonight"
+    width="100%"
+    alt="Profile Details"
+  />
+</div>
 
----
+<br/>
 
-## 🐍 Contribution Snake
+<div align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreyabhat75&theme=tokyonight"
+    alt="Repos Per Language"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shreyabhat75&theme=tokyonight"
+    alt="Most Commit Language"
+  />
+</div>
 
-![snake gif](https://github.com/shreyabhat75/shreyabhat75/blob/output/github-contribution-grid-snake-dark.svg)
+<br/>
+
+<div align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shreyabhat75&theme=tokyonight"
+    alt="Stats"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shreyabhat75&theme=tokyonight&utcOffset=5.5"
+    alt="Productive Time"
+  />
+</div>
+
+<br/>
+
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=shreyabhat75&theme=react-dark&hide_border=true&area=true"
+    width="100%"
+    alt="Activity Graph"
+  />
+</div>
 
 ---
 
@@ -52,6 +88,12 @@
 
 ---
 
+## 💭 Quote
+
 <p align="center">
   ✨ "Code. Create. Impact." ✨
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=24&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&theme=gruvbox_light" width="100%" />
+</div>
