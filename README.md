@@ -91,7 +91,7 @@
 ## 💭 Quote
 
 <p align="center">
-  ✨ "Code. Create. Impact." ✨
+ Late-night ideas, early-morning commits.
 </p>
 
 <div align="center">
