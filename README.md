@@ -1,23 +1,57 @@
-# Hi, I'm Shreya 👋
+<h1 align="center">Hey, I'm Shreya 👋</h1>
 
-💻 CSE Student | Frontend & Full Stack Developer  
-🚀 Building cool things with React, Java & AI  
-🌱 Currently learning TypeScript & advanced web development  
+<p align="center">
+  💻 CSE Student • Frontend Developer • AI Explorer
+</p>
 
-## Tech Stack
-React • Java • Python • JavaScript • MySQL • TailwindCSS
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C084FC&center=true&vCenter=true&width=435&lines=Code.+Create.+Impact.;React+Developer;AI+%26+Web+Development;Always+Learning+Something+New" />
+</p>
 
-## A Few Things About Me
-- Built projects in Web Dev, AI & ML
-- Hackathon enthusiast ⚡
-- Content Head @ Chaaya Club
-- Love blending creativity with tech
+---
 
-## Currently Working On
-🎵 E-Learning Platform for Musicians
+## 🌸 About Me
 
-> “Code. Create. Impact.”
-> 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyabhat75&show_icons=true&theme=tokyonight)
+- 🚀 Building projects in Web Dev, AI & ML
+- ⚡ Hackathon enthusiast
+- 🎨 Love blending creativity with tech
+- 🌱 Currently learning TypeScript & advanced React
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyabhat75&layout=compact&theme=tokyonight)
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,java,python,javascript,mysql,git,github,figma,tailwind,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shreyabhat75&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyabhat75&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/shreyabhat75/shreyabhat75/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+## ✨ Featured Projects
+
+- 🎵 E-Learning Platform for Musicians
+- 🤖 AI Resume Screener
+- 🛒 E-Commerce Clone
+- 🧠 Sign Language Translator
+
+---
+
+<p align="center">
+  ✨ "Code. Create. Impact." ✨
+</p>
