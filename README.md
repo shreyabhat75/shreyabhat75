@@ -1,21 +1,19 @@
 # Hi, I'm Shreya 👋
 
-💻 ISE Student
-🚀 Frontend & Full Stack Developer
-🎯 Interested in AI, Web Dev, Ethical Hacking
+💻 CSE Student | Frontend & Full Stack Developer  
+🚀 Building cool things with React, Java & AI  
+🌱 Currently learning TypeScript & advanced web development  
 
 ## Tech Stack
-- React
-- Java
-- Python
-- Javascript
-  
+React • Java • Python • JavaScript • MySQL • TailwindCSS
 
-## Projects
-- Smart Sign Language Translator
-- AI Resume Screener and Skill gap analyzer
+## A Few Things About Me
+- Built projects in Web Dev, AI & ML
+- Hackathon enthusiast ⚡
+- Content Head @ Chaaya Club
+- Love blending creativity with tech
 
-## Currently Learning
-- Springboot
-- ML/DL
-  
+## Currently Working On
+🎵 E-Learning Platform for Musicians
+
+> “Code. Create. Impact.”
