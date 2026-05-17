@@ -17,3 +17,5 @@ React • Java • Python • JavaScript • MySQL • TailwindCSS
 🎵 E-Learning Platform for Musicians
 
 > “Code. Create. Impact.”
+> 
+![Stats](https://github-readme-stats.vercel.app/api?username=shreyabhat75&show_icons=true)
