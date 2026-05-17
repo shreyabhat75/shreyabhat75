@@ -1,119 +1,92 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&reversal=false&fontSize=54&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&desc=CSE%20Student%20%7C%20Frontend%20Developer%20%7C%20AI%20Explorer&descSize=18&descAlign=50&descAlignY=60&theme=gruvbox_light" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=34&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Shreya+Mohan+Bhat;Frontend+Developer;AI+%2F+Web+Development;Building+Ideas+Into+Reality" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=shreyabhat75&label=Profile+Views&color=C084FC&style=flat-square" />
+
 </div>
 
-<h1 align="center">Hey, I'm Shreya 👋</h1>
+---
 
-<p align="center">
-  💻 ISE Student • Frontend Developer • AI Explorer
-</p>
+## ✦ About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C084FC&center=true&vCenter=true&width=520&lines=Code.+Create.+Impact.;React+Developer;AI+%26+Web+Development;Always+Learning+Something+New" alt="Typing SVG" />
-</p>
+```txt
+💻 ISE Student @ RVITM
+⚡ Frontend Developer & AI Explorer
+🎨 Creative mind with a passion for tech
+🚀 Building projects in Web Development, AI & ML
+🌱 Currently learning TypeScript & advanced React
+```
 
 ---
 
-## 🌸 About Me
-
-- 🚀 Building projects in Web Dev, AI & ML
-- ⚡ Hackathon enthusiast
-- 🎨 Love blending creativity with tech
-- 🌱 Currently learning TypeScript & advanced React
-
----
-
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,python,java,mysql,git,github,figma,tailwind,vscode" alt="Tech Stack" />
-</p>
-
----
-
-## 📊 GitHub Stats
+## ✦ Tech Stack
 
 <div align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyabhat75&theme=tokyonight"
-    width="100%"
-    alt="Profile Details"
-  />
+
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,python,java,mysql,tailwind,git,github,figma,vscode&theme=dark" />
+
+</div>
+
+---
+
+## ✦ GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shreyabhat75&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyabhat75&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000"/>
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreyabhat75&theme=tokyonight"
-    alt="Repos Per Language"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shreyabhat75&theme=tokyonight"
-    alt="Most Commit Language"
-  />
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shreyabhat75&theme=tokyo-night&hide_border=true&bg_color=00000000&line=C084FC&point=FFFFFF"/>
+
 </div>
-
-<br/>
-
-<div align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shreyabhat75&theme=tokyonight"
-    alt="Stats"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shreyabhat75&theme=tokyonight&utcOffset=5.5"
-    alt="Productive Time"
-  />
-</div>
-
-<br/>
-
-<div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=shreyabhat75&theme=react-dark&hide_border=true&area=true"
-    width="100%"
-    alt="Activity Graph"
-  />
-</div>
-
-<p align="center">
-  <a href="https://github.com/shreyabhat75">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/shreya-mohan-bhat/">
-    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  
-  <a href="https://www.shreya-bhat.me/">
-    <img src="https://img.shields.io/badge/Portfolio-C084FC?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
-  
-  <a href="mailto:shreyab232@gmail.com">
-    <img src="https://img.shields.io/badge/Email-9370DB?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-
 
 ---
 
-## ✨ Featured Projects
+## ✦ Featured Projects
 
-- 🎵 E-Learning Platform for Musicians
-- 🤖 AI Resume Screener
-- 🛒 E-Commerce Clone
-- 🧠 Sign Language Translator
+✦ 🎵 E-Learning Platform for Musicians  
+✦ 🤖 AI Resume Screener  
+✦ 🛒 E-Commerce Clone  
+✦ 🧠 Sign Language Translator  
 
 ---
 
-## 💭 Quote
-
-<p align="center">
- Late-night ideas, early-morning commits.
-</p>
+## ✦ Connect With Me
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=24&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&theme=gruvbox_light" width="100%" />
+
+<a href="https://www.shreya-bhat.me/">
+  <img src="https://img.shields.io/badge/Portfolio-C084FC?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shreya-mohan-bhat/">
+  <img src="https://img.shields.io/badge/LinkedIn-7F5AF0?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:shreyab232@gmail.com">
+  <img src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/shreyabhat75">
+  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✧ "Late-night ideas, early-morning commits." ✧
+
 </div>
